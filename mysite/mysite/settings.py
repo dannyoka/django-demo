@@ -109,6 +109,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 # Internationalization
 # https://docs.djangoproject.com/en/3.2/topics/i18n/
+# adding in some comments to test my workflow
 
 LANGUAGE_CODE = 'en-us'
 
